@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+.chart-container {
+  max-width: 800px;
+  margin: 0 auto 40px;
+}
+
+ul {
+  text-align: left;
+  max-width: 800px;
+  margin: 0 auto;
+}
